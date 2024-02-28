@@ -115,6 +115,7 @@ in
     heroic
     beeper
     btop
+    neofetch
 
   ];
   fonts.packages = with pkgs; [
